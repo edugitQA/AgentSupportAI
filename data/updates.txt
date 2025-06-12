@@ -1,0 +1,30 @@
+# Manual do Colaborador - NovaCorp
+
+## 1. Horário de Trabalho
+Os colaboradores devem cumprir uma jornada de 8h diárias, entre 8h e 18h, com 1h de intervalo para almoço. Registros são feitos via aplicativo interno.
+
+## 2. Home Office
+Permitido 5 vezes por semana, mediante acordo com o gestor direto. A produtividade será monitorada via OKRs semanais.
+
+## 3. Código de Vestimenta
+Ambiente casual. Exigido traje formal somente em reuniões com clientes externos ou eventos corporativos.
+
+## 4. Conduta Esperada
+- Respeito entre colegas e líderes
+- Não toleramos assédio ou discriminação
+- Uso adequado de e-mails e canais internos
+
+## 5. Benefícios
+- Plano de saúde
+- Vale alimentação (R$ 800)
+- Gympass
+- Auxílio home office (R$ 200/mês)
+
+## 6. Faltas e Atestados
+Atestados devem ser enviados ao RH via e-mail até 24h após o início da ausência.
+
+## 7. Ferramentas Usadas
+- Slack (comunicação)
+- Notion (documentação)
+- Jira (gestão de tarefas)
+- Google Workspace (colaboração)

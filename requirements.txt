@@ -1,5 +1,7 @@
 # requirements.txt
 langchain
+langchain-community
+langchain-openai
 langgraph
 openai
 faiss-cpu
